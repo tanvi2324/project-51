@@ -1,0 +1,78 @@
+.head{
+      
+  background-color:white;
+  border:solid;
+   }
+
+   
+
+.grid {
+  background: pink;
+  background-color: coral;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#ffffff;
+}
+
+
+.chameleon {
+  border: 1px solid rgb(168, 77, 77);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#ffffff;
+}
+
+.cicada {
+  border: 1px solid rgb(168, 77, 77);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:#ffffff;
+}
+
+.panda {
+  border: 1px solid rgb(168, 77, 77);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:#ffffff;
+}
+
+.pigeon {
+  border: 1px solid rgb(168, 77, 77);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#ffffff;
+}
+
+.teddy {
+  border: 1px solid rgb(168, 77, 77);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#ffffff;
+}
